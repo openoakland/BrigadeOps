@@ -2,7 +2,7 @@ OpenOakland is dedicated to providing a supportive, harassment-free experience f
 
 We expect participants to follow these guidelines at all OpenOakland-hosted events.
 
-We do not tolerate harassment of participants in any form. Sexual language and imagery are not appropriate for any Code for Boston event.
+We do not tolerate harassment of participants in any form. Sexual language and imagery are not appropriate for any OpenOakland event.
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
